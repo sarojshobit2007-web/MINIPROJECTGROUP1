@@ -1,0 +1,12 @@
+{
+  "name": "q1-read-employees",
+  "version": "1.0.0",
+  "description": "Express API to read employee data from data.json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

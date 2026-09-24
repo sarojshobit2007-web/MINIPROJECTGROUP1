@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "Employees fetched successfully",
+  "count": 5,
+  "data": [
+    {
+      "id": 1,
+      "employeeName": "Ravi Sharma",
+      "designation": "Backend Developer",
+      "department": "IT",
+      "salary": 45000
+    },
+    {
+      "id": 2,
+      "employeeName": "Neha Verma",
+      "designation": "Frontend Developer",
+      "department": "IT",
+      "salary": 50000
+    },
+    {
+      "id": 3,
+      "employeeName": "Amit Patel",
+      "designation": "HR Manager",
+      "department": "Human Resources",
+      "salary": 55000
+    },
+    {
+      "id": 4,
+      "employeeName": "Priya Singh",
+      "designation": "UI/UX Designer",
+      "department": "Design",
+      "salary": 48000
+    },
+    {
+      "id": 5,
+      "employeeName": "Rahul Mehta",
+      "designation": "Software Tester",
+      "department": "QA",
+      "salary": 42000
+    }
+  ]
+}
